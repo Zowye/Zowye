@@ -8,11 +8,16 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Skills & Tools
+## 🪐 Who am I
+In love with technology because definitely this is the _easiest_ & _fastest_ way to change the world.
 
-python r anaconda vscode mysql azure git
+## ⛅ Clouds
+- AWS - 2+ years
+- ORACLE 1+ year
+- ORACLE 1+ year
 
 
+## ☕ Contact Me!
 
 <p align="left">
   <a href="mailto:caiozowye@gmail.com" alt="Gmail">
