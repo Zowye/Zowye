@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🪐 Who am I
-In love with technology because definitely this is the _easiest_ & _fastest_ way to change the world.
+Computer Engineer, working with Data Science projects. In love with technology because definitely this is the _easiest_ & _fastest_ way to change the world.
 
 ## ⛅ Clouds
 - AWS - 2+ years
