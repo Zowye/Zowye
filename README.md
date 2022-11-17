@@ -34,7 +34,7 @@ Computer Engineer, working with Data Science projects. In love with technology b
 
 ## ⛅ Clouds
 - AWS - 2+ years
-- ORACLE 1+ year
+- AZURE 1+ year
 - ORACLE 1+ year
 
 
